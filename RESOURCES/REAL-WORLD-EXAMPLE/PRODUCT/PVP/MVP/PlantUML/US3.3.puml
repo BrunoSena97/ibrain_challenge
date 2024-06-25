@@ -1,0 +1,5 @@
+@startuml
+actor RestaurantOwner
+RestaurantOwner -> System: Update/rename menu
+System -> RestaurantOwner: Menu updated
+@enduml

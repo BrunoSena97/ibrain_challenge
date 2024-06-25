@@ -1,0 +1,5 @@
+@startuml
+actor Customer
+Customer -> System: Customize meal
+System -> Customer: Display customization options
+@enduml

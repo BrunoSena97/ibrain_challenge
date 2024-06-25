@@ -1,0 +1,5 @@
+@startuml
+actor Customer
+Customer -> System: Update ingredient
+System -> Customer: Ingredient updated
+@enduml

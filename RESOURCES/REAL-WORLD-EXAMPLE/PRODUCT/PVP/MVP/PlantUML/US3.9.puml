@@ -1,0 +1,5 @@
+@startuml
+actor RestaurantOwner
+RestaurantOwner -> System: Manage ingredient
+System -> RestaurantOwner: Ingredient management options
+@enduml

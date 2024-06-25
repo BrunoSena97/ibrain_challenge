@@ -1,0 +1,30 @@
+Day 1: Launch & Ideation:
+
+    Understanding UI/UX Design:
+        Learn the basics of UI (User Interface) and UX (User Experience) design principles.
+        Understand the difference between UI and UX and how they work together to create a great user experience.
+        Explore different design elements like layout, typography, color, and imagery.
+    Familiarization with Wireframing Tools:
+        Get acquainted with wireframing tools like Figma, or even pen and paper.
+        Practice creating basic wireframes for simple interfaces.
+    Inspiration and Research:
+        Look at examples of well-designed apps, websites, and other software products.
+        Gather inspiration from different sources and start thinking about the overall look and feel of their product.
+
+Day 2: Build-Measure-Learn:
+
+    Creating Mockups and Wireframes:
+        Start creating mockups and wireframes for the product's main screens and user flows.
+        Focus on the key interactions and how users will navigate through the product.
+        Incorporate feedback from the Software Engineer to ensure the design is feasible and aligned with the technical requirements.
+    User Testing (Optional):
+        If possible, conduct simple user testing with friends or family to get feedback on the initial designs.
+        Observe how users interact with the mockups and gather insights on what works and what doesn't.
+
+Day 3: Closure:
+
+    Refining Designs:
+        Based on feedback and testing, refine the mockups and wireframes to improve the user experience.
+        Pay attention to details like button placement, navigation, and visual consistency.
+    Preparing for Presentation:
+        Organize the design artifacts and create a compelling presentation that showcases the user interface and user experience of the product.

@@ -1,0 +1,5 @@
+@startuml
+actor Customer
+Customer -> System: Choose lowest calorie option
+System -> Customer: Display lowest calorie meal
+@enduml

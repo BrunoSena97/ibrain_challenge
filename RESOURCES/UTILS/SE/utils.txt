@@ -1,0 +1,28 @@
+Day 1: Launch & Ideation:
+
+    Understanding UML:
+        Review the basics of UML (Unified Modeling Language) and its different types of diagrams (class, use case, activity, sequence).
+        Learn how UML is used to visualize and document software systems.
+        Start thinking about which diagrams might be most relevant for their product idea.
+    Basic Software Design Principles:
+        Explore fundamental design principles like SOLID/DRY/KISS.
+        Understand how these principles contribute to creating well-structured, maintainable, and scalable software.
+
+Day 2: Build-Measure-Learn:
+
+    Creating UML Diagrams:
+        Start sketching out UML diagrams that represent the core components of their product.
+        Focus on the most important aspects first, such as the main classes and their relationships, or the key use cases and user interactions.
+        Collaborate with the UI/UX designer to ensure alignment between the software design and the user interface.
+    Pseudocode (Optional):
+        basic logic and algorithms behind some of the product's features.
+
+Day 3: Closure:
+
+    Code Review (if applicable):
+        If any code has been written, review it for clarity, efficiency, and adherence to design principles.
+    Documentation:
+        Document the UML diagrams and any pseudocode created.
+        Explain the design decisions and rationale behind them.
+    Preparation for Presentation:
+        Organize the design artifacts and be ready to present them to the team and the Product Owner.

@@ -1,0 +1,5 @@
+@startuml
+actor RestaurantOwner
+RestaurantOwner -> System: Complete order
+System -> RestaurantOwner: Order completed
+@enduml

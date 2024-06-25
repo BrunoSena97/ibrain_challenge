@@ -1,0 +1,5 @@
+@startuml
+actor Customer
+Customer -> System: View list of restaurants
+System -> Customer: Display list of restaurants
+@enduml

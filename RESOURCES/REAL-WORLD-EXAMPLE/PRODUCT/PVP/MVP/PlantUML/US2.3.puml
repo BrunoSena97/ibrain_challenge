@@ -1,0 +1,6 @@
+@startuml
+actor Customer
+Customer -> System: Integrate with MyFitnessPal
+System -> MyFitnessPal: Sync meal data
+MyFitnessPal -> Customer: Data synced
+@enduml

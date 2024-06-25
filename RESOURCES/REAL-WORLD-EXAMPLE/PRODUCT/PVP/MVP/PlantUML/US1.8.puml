@@ -1,0 +1,5 @@
+@startuml
+actor Customer
+Customer -> System: Choose balanced meal option
+System -> Customer: Display balanced meal
+@enduml

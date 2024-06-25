@@ -1,0 +1,5 @@
+@startuml
+actor RestaurantOwner
+RestaurantOwner -> System: Manage menu
+System -> RestaurantOwner: Menu management options
+@enduml

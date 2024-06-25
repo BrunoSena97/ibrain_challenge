@@ -1,0 +1,8 @@
+Minimal Viable Product
+
+Expected Documentation:
+Architecture and technologies
+Business Model
+Findings and Metrics Measured
+Requirements
+User Manual

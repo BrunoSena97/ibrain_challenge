@@ -1,0 +1,5 @@
+@startuml
+actor RestaurantOwner
+RestaurantOwner -> System: Create QR code
+System -> RestaurantOwner: QR code created
+@enduml

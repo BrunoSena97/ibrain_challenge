@@ -1,0 +1,5 @@
+@startuml
+actor Customer
+Customer -> System: Order customized meal
+System -> Customer: Order confirmed
+@enduml

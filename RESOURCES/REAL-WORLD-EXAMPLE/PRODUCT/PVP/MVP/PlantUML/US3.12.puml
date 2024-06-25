@@ -1,0 +1,5 @@
+@startuml
+actor RestaurantOwner
+RestaurantOwner -> System: Delete ingredient
+System -> RestaurantOwner: Ingredient deleted
+@enduml

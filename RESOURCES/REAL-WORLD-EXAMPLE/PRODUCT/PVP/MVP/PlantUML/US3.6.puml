@@ -1,0 +1,5 @@
+@startuml
+actor RestaurantOwner
+RestaurantOwner -> System: Add meal
+System -> RestaurantOwner: Meal added
+@enduml

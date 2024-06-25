@@ -1,0 +1,5 @@
+@startuml
+actor SystemAdmin
+SystemAdmin -> System: Manage all restaurant accounts
+System -> SystemAdmin: Management options
+@enduml

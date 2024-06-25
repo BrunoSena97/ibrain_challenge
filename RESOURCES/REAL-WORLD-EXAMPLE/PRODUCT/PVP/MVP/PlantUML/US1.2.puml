@@ -1,0 +1,5 @@
+@startuml
+actor Customer
+Customer -> System: Add ingredient
+System -> Customer: Ingredient added
+@enduml

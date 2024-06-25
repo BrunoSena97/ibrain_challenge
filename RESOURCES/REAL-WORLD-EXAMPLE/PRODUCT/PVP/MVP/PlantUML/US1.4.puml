@@ -1,0 +1,5 @@
+@startuml
+actor Customer
+Customer -> System: Delete ingredient
+System -> Customer: Ingredient deleted
+@enduml

@@ -1,0 +1,5 @@
+@startuml
+actor RestaurantOwner
+RestaurantOwner -> System: Deny order
+System -> RestaurantOwner: Order denied
+@enduml

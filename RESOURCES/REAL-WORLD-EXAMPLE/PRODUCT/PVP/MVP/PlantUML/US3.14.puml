@@ -1,0 +1,5 @@
+@startuml
+actor RestaurantOwner
+RestaurantOwner -> System: Export menu as PDF
+System -> RestaurantOwner: PDF exported
+@enduml

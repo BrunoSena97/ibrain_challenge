@@ -1,0 +1,5 @@
+@startuml
+actor Customer
+Customer -> System: Choose max protein option
+System -> Customer: Display max protein meal
+@enduml

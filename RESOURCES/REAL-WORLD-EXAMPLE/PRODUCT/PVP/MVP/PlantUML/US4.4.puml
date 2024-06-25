@@ -1,0 +1,5 @@
+@startuml
+actor RestaurantOwner
+RestaurantOwner -> System: Preview menu
+System -> RestaurantOwner: Display menu preview
+@enduml
